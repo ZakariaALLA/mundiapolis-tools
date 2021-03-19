@@ -1,0 +1,1 @@
+mv $(find . -type f -name "[[:upper:]]*") /tmp/u/
