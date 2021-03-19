@@ -1,3 +1,2 @@
 #!/bin/bash
-chown betty * -R
-chgrp holberton * -R
+chown -R betty:holberton
